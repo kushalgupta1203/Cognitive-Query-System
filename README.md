@@ -1,5 +1,7 @@
 # Cognitive Query System Using Generative AI
 
+Link : https://cognitive-query-system-using-generative-ai.streamlit.app/
+
 
 ![ ](https://github.com/kushalgupta1203/Cognitive-Query-System/blob/master/sample/1.png)
 
