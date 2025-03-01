@@ -1,0 +1,3 @@
+conda activate D:\Projects\Cognitive-Query-System\venv
+
+streamlit run main.py
